@@ -27,10 +27,6 @@ An intelligent movie recommendation chatbot powered by AI that helps you discove
 
 [View Live Demo](https://aimovie-recommendation-chatbot-l0qxkj90x.vercel.app/)
 
-## 📸 Screenshots
-
-[Add screenshots here]
-
 ## 🎯 How It Works
 
 1. **User Input** - Tell the AI what kind of movie you're looking for
