@@ -146,8 +146,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [FatimaBashirDev](https://github.com/FatimaBashirDev)
+- LinkedIn: [FatimaBashir](https://www.linkedin.com/in/fatima-bashir-b9a538346/)
 
 ## 🙏 Acknowledgments
 
@@ -200,7 +200,7 @@ An intelligent movie recommendation chatbot powered by AI that helps you discove
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-project.vercel.app)
+[View Live Demo](https://aimovie-recommendation-chatbot-l0qxkj90x.vercel.app/)
 
 ## 🎯 How It Works
 
