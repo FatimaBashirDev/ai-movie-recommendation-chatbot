@@ -25,7 +25,7 @@ An intelligent movie recommendation chatbot powered by AI that helps you discove
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-project.vercel.app)
+[View Live Demo](https://aimovie-recommendation-chatbot-l0qxkj90x.vercel.app/)
 
 ## 📸 Screenshots
 
